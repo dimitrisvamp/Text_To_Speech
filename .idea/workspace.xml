@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c22e4b7-1344-4d59-9737-d6b65fba6f61" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2iMb0mGwVOinElk2fvSwpV4GyvH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TextToSpeechClient.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/UOICLASSES/TexnologiaLogismikou/PROJECT/TextToSpeech/lib/freetts-1.2/lib/cmutimelex.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/UOICLASSES/TexnologiaLogismikou/PROJECT/TextToSpeech/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c22e4b7-1344-4d59-9737-d6b65fba6f61" name="Changes" comment="" />
+      <created>1719303174522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719303174522</updated>
+      <workItem from="1719303176259" duration="1112000" />
+      <workItem from="1719304301990" duration="16000" />
+      <workItem from="1719329158804" duration="2750000" />
+      <workItem from="1719331942884" duration="8000" />
+      <workItem from="1719384244260" duration="16330000" />
+      <workItem from="1719413563502" duration="45000" />
+      <workItem from="1719414093554" duration="12029000" />
+      <workItem from="1719469815260" duration="15885000" />
+      <workItem from="1719505861112" duration="733000" />
+      <workItem from="1719564909357" duration="447000" />
+      <workItem from="1719568311663" duration="4951000" />
+      <workItem from="1719574063312" duration="7000" />
+      <workItem from="1719733977776" duration="3167000" />
+      <workItem from="1719765611324" duration="833000" />
+      <workItem from="1719766556989" duration="222000" />
+      <workItem from="1719766790218" duration="78000" />
+      <workItem from="1719821666333" duration="10549000" />
+      <workItem from="1719847773419" duration="1632000" />
+      <workItem from="1719864716318" duration="109000" />
+      <workItem from="1719903868301" duration="14093000" />
+      <workItem from="1719946671926" duration="32000" />
+      <workItem from="1719991656116" duration="12417000" />
+      <workItem from="1720028239223" duration="218000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
