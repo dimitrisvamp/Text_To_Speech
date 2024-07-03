@@ -1,0 +1,4 @@
+title: My first Document
+author: Dimitris Vampiris
+======================
+This is my first document to display
