@@ -6,6 +6,14 @@ A version of school project from Computer Science and Engineering department of 
 ## Description 
 An application that utilizes freetts library to speak the content of a text file or a docx file.
 
+## Requirements
+For this project you need to install: <br>
+- java ( https://www.java.com/download/ie_manual.jsp )
+- freetts ( https://freetts.sourceforge.io/ )
+- apache POI ( https://poi.apache.org/download.html )
+<br> 
+Don't forget to add the jar files of freetts and apache POI to your project structure.
+
 ## Usage 
 When the user runs the application, the main application window will appear on his screen. User will notice that there
 are three main functions represented by the three respective buttons. The first button is "New Document" button, the
@@ -39,3 +47,32 @@ follows the same procedure to open the document he wants to. The document will b
 desktop, according to his type of document. Then the user can read or edit the content and save as he could do it at his desktop.
 
 The application is closing by clicking the close option up and right side of the main window as most of the applications.
+
+## Uploaded Files
+Inside the src/main/java folder there are three folders that contain the java files for the application's implementation. <br>
+- commands:
+  - AudioTuner.java: Class for the audio settings window and function.
+  - CommandsFactory: The factory class responsible for creating the main ActionListener objects based on user commands.
+  - NewDocument.java: Class for creating a new document.
+  - OpenDocument.java: Class for opening a document in desktop.
+  - SaveDocument.java: Class for saving a document.
+  - VoiceDocument.java: Class searching the document to speak and setting up the content to speak.
+- org/example:
+  - FileCreator.java: Class for creating a text or word document.
+  - FileTypeFilter.java: Class for adding new document types.
+  - ReadFile.java: Class for reading the content of a text or word document.
+- view:
+  - TextToSpeechClient.java: The main class that creates the main client's window.
+
+## How To Run
+I made this project with maven so I run it as a maven project.
+- If you run from Intellij IDEA or eclipse:
+  - Go to "build" option.
+  - Select "build project" option.
+  - Run the TextToSpeechClient.java file by clicking the play button up and right.
+- If you run from cmd type:
+  - mvn -version ( to secure that maven is installed )
+  - cd path\to\your\project
+  - mvn clean install
+  - mvn compile
+  - java -cp target/classes view.TextToSpeechClient
